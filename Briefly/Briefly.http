@@ -1,0 +1,6 @@
+@Briefly_HostAddress = http://localhost:5101
+
+GET {{Briefly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
