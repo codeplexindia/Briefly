@@ -46,7 +46,7 @@ Cloud Services: Azure App Service + Azure Blob for images/videos
 
 Admin Web App
 
-Frontend: Angular (since you want to learn it 😉)
+Frontend: Angular
 
 Backend: Reuse the same .NET API
 
