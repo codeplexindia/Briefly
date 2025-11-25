@@ -1,5 +1,3 @@
-JIRA Board - https://codeplexlabsindia.atlassian.net/
-
 🧩 1. Core Idea
 
 A mobile app where users:
